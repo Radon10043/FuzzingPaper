@@ -171,6 +171,16 @@
   - [Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing](https://2023.issta.org/details/issta-2023-technical-papers/113/Icicle-A-Re-designed-Emulator-for-Grey-Box-Firmware-Fuzzing)
   - [ItyFuzz: Snapshot-Based Fuzzer for Smart Contract](https://2023.issta.org/details/issta-2023-technical-papers/19/ItyFuzz-Snapshot-Based-Fuzzer-for-Smart-Contract)
   - [Rare Path Guided Fuzzing](https://2023.issta.org/details/issta-2023-technical-papers/95/Rare-Path-Guided-Fuzzing)
+- **ESEC/FSE 2023**
+  - [Revisiting Neural Program Smoothing for Fuzzing](https://dl.acm.org/doi/10.1145/3611643.3616308)
+  - [Enhancing Coverage-Guided Fuzzing via Phantom Program](https://dl.acm.org/doi/10.1145/3611643.3616294)
+  - [Co-dependence Aware Fuzzing for Dataflow-Based Big Data Analytics](https://dl.acm.org/doi/10.1145/3611643.3616298)
+  - [SJFuzz: Seed and Mutator Scheduling for JVM Fuzzing](https://dl.acm.org/doi/10.1145/3611643.3616277)
+  - [Metamong: Detecting Render-Update Bugs in Web Browsers through Fuzzing](https://dl.acm.org/doi/10.1145/3611643.3616336)
+  - [Property-Based Fuzzing for Finding Data Manipulation Errors in Android Apps](https://dl.acm.org/doi/10.1145/3611643.3616286)
+  - [Leveraging Hardware Probes and Optimizations for Accelerating Fuzz Testing of Heterogeneous Applications](https://dl.acm.org/doi/10.1145/3611643.3616318)
+  - [NaNofuzz: A Usable Tool for Automatic Test Generation](https://dl.acm.org/doi/10.1145/3611643.3616327)
+  - [A Generative and Mutational Approach for Synthesizing Bug-Exposing Test Cases to Guide Compiler Fuzzing](https://dl.acm.org/doi/10.1145/3611643.3616332)
 - **ICSE 2023**
   - [Evaluating and Improving Hybrid Fuzzing](#evaluating-and-improving-hybrid-fuzzing-icse-2023)
   - [Fuzzing Automatic Differentiation in Deep-Learning Libraries](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00105)
