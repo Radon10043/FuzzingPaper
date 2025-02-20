@@ -16,6 +16,31 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=wcventure/FuzzingPaper&type=Date)](https://star-history.com/#wcventure/FuzzingPaper&Date)
 
 # All Papers (Classification according to Publication)
+- **ICSE 2025**
+  - [Coni: Detecting Database Connector Bugs via State-Aware Test Case Generation](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/coni_ICSE25.pdf)
+  - [Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts](https://arxiv.org/abs/2408.04939)
+  - [Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/janus_icse25.pdf)
+  - [Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf)
+  - [A Little Goes a Long Way: Tuning Configuration Selection for Continuous Kernel Fuzzing](https://futures.cs.utah.edu/papers/25ICSE-a.pdf)
+  - [Fuzzing MLIR Compilers with Custom Mutation Synthesis](https://web.cs.ucla.edu/~wangjiyuan/research/ICSE2025_SynthFuzz.pdf)
+  - [Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing?](https://arxiv.org/abs/2409.14541)
+  - [Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models](https://arxiv.org/abs/2501.04312)
+  - [Selecting Initial Seeds for Better JVM Fuzzing](https://arxiv.org/abs/2408.08515)
+  - [DPFuzzer: Discovering Safety Critical Vulnerabilities for Drone Path Planners]
+  - [ClozeMaster: Fuzzing Rust Compiler by Harnessing LLMs for Infilling Masked Real Programs]
+  - [The Seeds of the FUTURE Sprout from History: Fuzzing for Unveiling Vulnerabilities in Prospective Deep-Learning Libraries](https://arxiv.org/abs/2412.01317)
+  - [SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis](https://arxiv.org/abs/2409.18468)
+  - [Invivo Fuzzing by Amplifying Actual Executions](https://mboehme.github.io/paper/ICSE25-invivo.pdf)
+  - [IRFuzzer: Specialized Fuzzing for LLVM Backend Code Generation](https://arxiv.org/abs/2402.05256)
+  - [TransferFuzz: Fuzzing with Historical Trace for Verifying Propagated Vulnerability Code](https://arxiv.org/abs/2411.18347)
+  - [Fork State-Aware Differential Fuzzing for Blockchain Consensus Implementations]
+  - [RUG: Turbo LLM for Rust Unit Test Generation](https://sang.fan/assets/papers/rug_icse25.pdf)
+  - [Critical Variable State-Aware Directed Greybox Fuzzing]
+  - [ROSA: Finding Backdoors with Fuzzing](https://binsec.github.io/assets/publications/papers/2025-icse.pdf)
+  - [No Harness, No Problem: Oracle-guided Harnessing for Auto-generating C API Fuzzing Harnesses]
+  - [InSVDF: Interface-State-Aware Virtual Device Fuzzing]
+  - [SAND: Decoupling Sanitization from Fuzzing for Low Overhead](https://arxiv.org/abs/2402.16497)
+  - [Lightweight Concolic Testing via Path-Condition Synthesis for Deep Learning Libraries]
 - **CCS 2024**
   - [LIFTFUZZ: Validating Binary Lifters through Context-aware Fuzzing with GPT](https://dl.acm.org/doi/abs/10.1145/3658644.3670276)
   - [FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache](https://dl.acm.org/doi/abs/10.1145/3658644.3670278)
